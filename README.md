@@ -1,5 +1,5 @@
 # KSP - 64k
-This repository is a collection of my 64k textures that utilize my custom fork of Koperniucs which you can download here: https://github.com/ballisticfox/Kopernicus/releases/tag/release-1F
+This repository is a collection of my 64k textures that utilize my custom fork of Koperniucs which you can download here: https://github.com/ballisticfox/Kopernicus/releases/tag/releases
 
 
 
